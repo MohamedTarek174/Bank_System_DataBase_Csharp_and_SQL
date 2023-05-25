@@ -1,1 +1,6 @@
-# Bank_System_DataBase_Csharp_and_SQL
+# Bank_System_DataBase_Csharp_and_SQL_with_GUI
+This is a simple system using c# and SQL to add customers , emplyees , admins and branches to data base 
+user can sign up - login 
+customer can request loans - update his info
+emplyee is able to approve or reject the loans - add customers,...
+admin can add brach of bank ,....
